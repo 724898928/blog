@@ -1,6 +1,6 @@
 # blog
 
-> 这里是所有wiki文档的索引
+> 该库存入所有wiki文档及所有demo的代码
 
 * [UML建模](https://github.com/bingbo/blog/wiki/uml)
 * [HTTP协议](https://github.com/bingbo/blog/wiki/http)
