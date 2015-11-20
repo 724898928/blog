@@ -1,5 +1,6 @@
 # blog
-my blog include some document
+
+> 这里是所有wiki文档的索引
 
 * [UML建模](https://github.com/bingbo/blog/wiki/uml)
 * [HTTP协议](https://github.com/bingbo/blog/wiki/http)
