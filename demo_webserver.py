@@ -15,16 +15,8 @@ import urlparse
 def getDefault():
     return json.dumps({'name':'test'})
 def getUser():
-    import MySQLdb as mdb
-    con=mdb.connect('10.100.46.203','root','','life_web',3306)
-    cur=con.cursor()
-    cur.execute('select id,user_id,contact_name,contact_mobile,contact_address,note,create_time from bd3600_contact')
-    rows = cur.fetchall()
-    datas = []
-    for row in rows:
-        data = {'id':row[0],'user_id':row[1],'contact_name':row[2],'contact_mobile':row[3],'contact_address':json.loads(row[4]),'note':row[5],'create_time':time.ctime(row[6])}
-        datas.append(data)
-    return json.dumps(datas)
+
+    return json.dumps({'name':'bill'})
 url_mapping = {
     '/' : getDefault,
     '/user/get' : getUser
@@ -49,7 +41,9 @@ resHeaders_arr = []
 server = {}
 server['protocol'] = 'HTTP/1.1'
 evn = {}
+
 def parse_request_uri(uri):
+    '解析URI'
     if uri == '*':
         return None, None, uri
     i = uri.find('://')
@@ -87,6 +81,7 @@ def handle(s):
     if '?' in evn['path']:
         evn['path'], evn['querystring'] = evn['path'].split('?', 1)
 
+    #从请求头或body里拿参数数据
     if evn['method'] == 'POST':
         params = urlparse.parse_qs(reqHeaders[-1])
     elif evn.has_key('querystring'):
@@ -97,6 +92,7 @@ def handle(s):
 
     
 
+    ##解析路径及调用路由
     req_file = root + evn['path'] 
     if evn['path'].startswith('/static',0) and os.path.isfile(req_file):
         fd = open(req_file,'r')
@@ -129,13 +125,13 @@ def handle(s):
     s.send(res)
     s.close()
 
-#处理响应头信息
 def process_resHeader():
+    '处理响应头信息'
     for k,v in resHeaders.iteritems():
         resHeaders_arr.append(k + ':' +v)
 
-##处理请求数据
 def process_params(params, type):
+    '处理请求数据'
     data = {}
     data[type] = {}
     for k in params.keys():
