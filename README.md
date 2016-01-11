@@ -2,9 +2,9 @@
 
 该库存入所有wiki文档及所有demo的代码
 
-* **[UML建模](https://github.com/bingbo/blog/wiki/uml)**
-* **[设计模式](https://github.com/bingbo/blog/wiki/patterns)**
-* **[面向对象设计](https://github.com/bingbo/blog/wiki/oop)**
+* **[UML建模](https://github.com/bingbo/blog/wiki/UML%E5%BB%BA%E6%A8%A1)**
+* **[设计模式](https://github.com/bingbo/blog/wiki/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)**
+* **[面向对象设计](https://github.com/bingbo/blog/wiki/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1)**
 * **[NGINX指南](https://github.com/bingbo/blog/wiki/NGINX%E6%8C%87%E5%8D%97)**
 * **[HTTP协议](https://github.com/bingbo/blog/wiki/HTTP%E5%8D%8F%E8%AE%AE)**
 * **[HTTP缓存](https://github.com/bingbo/blog/wiki/HTTP%E7%BC%93%E5%AD%98)**
