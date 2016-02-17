@@ -28,4 +28,10 @@
   * **[MYSQL分区管理](https://github.com/bingbo/blog/wiki/MYSQL%E5%88%86%E5%8C%BA%E7%AE%A1%E7%90%86)**
   * **[MYSQL分区类型](https://github.com/bingbo/blog/wiki/MYSQL%E5%88%86%E5%8C%BA%E7%B1%BB%E5%9E%8B)**
   * **[MYSQL性能优化](https://github.com/bingbo/blog/wiki/MYSQL%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)**
+ 
+### PHP
+
+  * **[PHP性能优化](https://github.com/bingbo/blog/wiki/PHP%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)**
+  * **[PHP提高编程效率的50个方法](https://github.com/bingbo/blog/wiki/PHP%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B%E6%95%88%E7%8E%87%E7%9A%8450%E4%B8%AA%E6%96%B9%E6%B3%95)**
+  * **[php读取文件的三种方法](https://github.com/bingbo/blog/wiki/php%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95)**
 
