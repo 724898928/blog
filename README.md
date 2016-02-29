@@ -40,6 +40,7 @@
 
 ### PYTHON
   * **[web.py框架解析](https://github.com/bingbo/blog/blob/master/doc/web.py%E6%A1%86%E6%9E%B6%E8%B0%83%E7%A0%94.pdf)**
+  * **[Django与web服务器(Ningx和uWSGI)的部署与配置](https://github.com/bingbo/blog/wiki/Django%E4%B8%8Eweb%E6%9C%8D%E5%8A%A1%E5%99%A8(Ningx%E5%92%8CuWSGI)%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E9%85%8D%E7%BD%AE)**
  
 ### [SQLITE数据库应用](https://github.com/bingbo/blog/wiki/SQLITE%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BA%94%E7%94%A8)
 
