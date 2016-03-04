@@ -61,4 +61,4 @@
   * **[后台执行命令](https://github.com/bingbo/blog/wiki/%E5%90%8E%E5%8F%B0%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4)**
   * **[文件权限操作](https://github.com/bingbo/blog/wiki/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90%E6%93%8D%E4%BD%9C)**
   * **[条件测试](https://github.com/bingbo/blog/wiki/%E6%9D%A1%E4%BB%B6%E6%B5%8B%E8%AF%95)**
-  * 
+ 
