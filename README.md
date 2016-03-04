@@ -63,4 +63,5 @@
   * **[条件测试](https://github.com/bingbo/blog/wiki/%E6%9D%A1%E4%BB%B6%E6%B5%8B%E8%AF%95)**
   * **[控制语句应用](https://github.com/bingbo/blog/wiki/%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5%E5%BA%94%E7%94%A8)**
   * **[shell函数及参数操作](https://github.com/bingbo/blog/wiki/shell%E5%87%BD%E6%95%B0%E5%8F%8A%E5%8F%82%E6%95%B0%E6%93%8D%E4%BD%9C)**
+  * **[shell内嵌命令](https://github.com/bingbo/blog/wiki/shell%E5%86%85%E5%B5%8C%E5%91%BD%E4%BB%A4)**
  
