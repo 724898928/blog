@@ -47,4 +47,18 @@
 ### MongoDB
   * **[MongoDB安装](https://github.com/bingbo/blog/wiki/MongoDB%E5%AE%89%E8%A3%85)**
   * **[MongoDB的CURD操作](https://github.com/bingbo/blog/wiki/MongoDB%E7%9A%84CURD%E6%93%8D%E4%BD%9C)**
-
+  
+### SHELL
+  * **[awk应用](https://github.com/bingbo/blog/wiki/awk%E5%BA%94%E7%94%A8)**
+  * **[find和xargs的应用](https://github.com/bingbo/blog/wiki/find%E5%92%8Cxargs%E7%9A%84%E5%BA%94%E7%94%A8)**
+  * **[grep与正则](https://github.com/bingbo/blog/wiki/grep%E4%B8%8E%E6%AD%A3%E5%88%99)**
+  * **[sed应用](https://github.com/bingbo/blog/wiki/sed%E5%BA%94%E7%94%A8)**
+  * **[shell变量](https://github.com/bingbo/blog/wiki/shell%E5%8F%98%E9%87%8F)**
+  * **[shell程序调试](https://github.com/bingbo/blog/wiki/shell%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95)**
+  * **[tr应用](https://github.com/bingbo/blog/wiki/tr%E5%BA%94%E7%94%A8)**
+  * **[个性化设置之profile](https://github.com/bingbo/blog/wiki/%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B9%8Bprofile)**
+  * **[合并-排序-分隔](https://github.com/bingbo/blog/wiki/%E5%90%88%E5%B9%B6-%E6%8E%92%E5%BA%8F-%E5%88%86%E9%9A%94)**
+  * **[后台执行命令](https://github.com/bingbo/blog/wiki/%E5%90%8E%E5%8F%B0%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4)**
+  * **[文件权限操作](https://github.com/bingbo/blog/wiki/%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90%E6%93%8D%E4%BD%9C)**
+  * **[条件测试](https://github.com/bingbo/blog/wiki/%E6%9D%A1%E4%BB%B6%E6%B5%8B%E8%AF%95)**
+  * 
