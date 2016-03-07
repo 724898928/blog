@@ -64,4 +64,7 @@
   * **[控制语句应用](https://github.com/bingbo/blog/wiki/%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5%E5%BA%94%E7%94%A8)**
   * **[shell函数及参数操作](https://github.com/bingbo/blog/wiki/shell%E5%87%BD%E6%95%B0%E5%8F%8A%E5%8F%82%E6%95%B0%E6%93%8D%E4%BD%9C)**
   * **[shell内嵌命令](https://github.com/bingbo/blog/wiki/shell%E5%86%85%E5%B5%8C%E5%91%BD%E4%BB%A4)**
+  * **[信号](https://github.com/bingbo/blog/wiki/%E4%BF%A1%E5%8F%B7)**
+  * **[shell常用命令](https://github.com/bingbo/blog/wiki/shell%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
+  * **[shell程序调试](https://github.com/bingbo/blog/wiki/shell%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95)**
  
