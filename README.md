@@ -13,6 +13,7 @@
   * **[NGINX指南](https://github.com/bingbo/blog/wiki/NGINX%E6%8C%87%E5%8D%97)**
   * **[NGINX日志切分](https://github.com/bingbo/blog/wiki/NGINX%E6%97%A5%E5%BF%97%E5%88%87%E5%88%86%E6%96%B9%E5%BC%8F)**
   * **[NGINX请求处理流程](https://github.com/bingbo/blog/wiki/NGINX%E5%A4%84%E7%90%86%E8%AF%B7%E6%B1%82%E7%9A%84%E5%87%A0%E4%B8%AA%E9%98%B6%E6%AE%B5)**
+  * **[NGINX注意事项](https://github.com/bingbo/blog/wiki/NGINX%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)**
   
 ### HTTP
 
