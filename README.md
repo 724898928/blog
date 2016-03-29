@@ -38,6 +38,7 @@
   * **[PHP框架学习总结](https://github.com/bingbo/blog/blob/master/doc/php%E6%A1%86%E6%9E%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf)**
   * **[YII框架解析](https://github.com/bingbo/blog/wiki/YII%E6%A1%86%E6%9E%B6%E8%A7%A3%E6%9E%90)**
   * **[PHP与MongoDB交互](https://github.com/bingbo/blog/wiki/PHP%E4%B8%8EMongoDB%E4%BA%A4%E4%BA%92)**
+  * **[PHP扩展开发](https://github.com/bingbo/blog/wiki/PHP%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91)**
 
 ### PYTHON
   * **[web.py框架解析](https://github.com/bingbo/blog/blob/master/doc/web.py%E6%A1%86%E6%9E%B6%E8%B0%83%E7%A0%94.pdf)**
@@ -48,6 +49,7 @@
 ### MongoDB
   * **[MongoDB安装](https://github.com/bingbo/blog/wiki/MongoDB%E5%AE%89%E8%A3%85)**
   * **[MongoDB的CURD操作](https://github.com/bingbo/blog/wiki/MongoDB%E7%9A%84CURD%E6%93%8D%E4%BD%9C)**
+  * **[redis、memcached和mongodb的对比](https://github.com/bingbo/blog/wiki/redis%E3%80%81memcached%E5%92%8Cmongodb%E7%9A%84%E5%AF%B9%E6%AF%94)**
   
 ### SHELL
   * **[awk应用](https://github.com/bingbo/blog/wiki/awk%E5%BA%94%E7%94%A8)**
