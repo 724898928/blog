@@ -71,3 +71,7 @@
   * **[shell常用命令](https://github.com/bingbo/blog/wiki/shell%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
   * **[shell程序调试](https://github.com/bingbo/blog/wiki/shell%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95)**
  
+### Memcached
+  * **[memcached安装](https://github.com/bingbo/blog/wiki/memcached%E5%AE%89%E8%A3%85)**
+  * **[memcached内存管理机制](https://github.com/bingbo/blog/wiki/memcached%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6)**
+  * **[memcached分布式算法](https://github.com/bingbo/blog/wiki/memcached%E5%88%86%E5%B8%83%E5%BC%8F%E7%AE%97%E6%B3%95)**
