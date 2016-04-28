@@ -29,6 +29,7 @@
   * **[MYSQL分区管理](https://github.com/bingbo/blog/wiki/MYSQL%E5%88%86%E5%8C%BA%E7%AE%A1%E7%90%86)**
   * **[MYSQL分区类型](https://github.com/bingbo/blog/wiki/MYSQL%E5%88%86%E5%8C%BA%E7%B1%BB%E5%9E%8B)**
   * **[MYSQL性能优化](https://github.com/bingbo/blog/wiki/MYSQL%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)**
+  * **[MYSQL分库分表方案](https://github.com/bingbo/blog/wiki/MYSQL%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88)**
  
 ### PHP
 
