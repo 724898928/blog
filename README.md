@@ -75,3 +75,6 @@
   * **[memcached安装](https://github.com/bingbo/blog/wiki/memcached%E5%AE%89%E8%A3%85)**
   * **[memcached内存管理机制](https://github.com/bingbo/blog/wiki/memcached%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6)**
   * **[memcached分布式算法](https://github.com/bingbo/blog/wiki/memcached%E5%88%86%E5%B8%83%E5%BC%8F%E7%AE%97%E6%B3%95)**
+  
+### Redis
+  * **[Redis数据淘汰机制](https://github.com/bingbo/blog/wiki/Redis%E6%95%B0%E6%8D%AE%E6%B7%98%E6%B1%B0%E6%9C%BA%E5%88%B6)**
