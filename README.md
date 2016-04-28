@@ -23,6 +23,7 @@
   
 ### MYSQL
 
+  * **[MYSQL学习笔记](https://github.com/bingbo/blog/wiki/MYSQL学习笔记)**
   * **[MYSQL内置函数](https://github.com/bingbo/blog/wiki/mysql%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0)**
   * **[MYSQL主从复制](https://github.com/bingbo/blog/wiki/mysql%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)**
   * **[MYSQL复制语句](https://github.com/bingbo/blog/wiki/mysql%E5%A4%8D%E5%88%B6%E8%AF%AD%E5%8F%A5)**
