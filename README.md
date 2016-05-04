@@ -10,6 +10,7 @@
 
 ### NGINX
 
+  * **[NGINX编译安装运行](https://github.com/bingbo/blog/wiki/NGINX%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E8%BF%90%E8%A1%8C)**
   * **[NGINX指南](https://github.com/bingbo/blog/wiki/NGINX%E6%8C%87%E5%8D%97)**
   * **[NGINX日志切分](https://github.com/bingbo/blog/wiki/NGINX%E6%97%A5%E5%BF%97%E5%88%87%E5%88%86%E6%96%B9%E5%BC%8F)**
   * **[NGINX请求处理流程](https://github.com/bingbo/blog/wiki/NGINX%E5%A4%84%E7%90%86%E8%AF%B7%E6%B1%82%E7%9A%84%E5%87%A0%E4%B8%AA%E9%98%B6%E6%AE%B5)**
@@ -41,6 +42,7 @@
   * **[YII框架解析](https://github.com/bingbo/blog/wiki/YII%E6%A1%86%E6%9E%B6%E8%A7%A3%E6%9E%90)**
   * **[PHP与MongoDB交互](https://github.com/bingbo/blog/wiki/PHP%E4%B8%8EMongoDB%E4%BA%A4%E4%BA%92)**
   * **[PHP扩展开发](https://github.com/bingbo/blog/wiki/PHP%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91)**
+  * **[PHP发送post请求](https://github.com/bingbo/blog/wiki/PHP%E5%8F%91%E9%80%81post%E8%AF%B7%E6%B1%82)**
 
 ### PYTHON
   * **[web.py框架解析](https://github.com/bingbo/blog/blob/master/doc/web.py%E6%A1%86%E6%9E%B6%E8%B0%83%E7%A0%94.pdf)**
@@ -72,6 +74,11 @@
   * **[信号](https://github.com/bingbo/blog/wiki/%E4%BF%A1%E5%8F%B7)**
   * **[shell常用命令](https://github.com/bingbo/blog/wiki/shell%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
   * **[shell程序调试](https://github.com/bingbo/blog/wiki/shell%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95)**
+
+### LINUX
+
+  * **[Linux性能监控](https://github.com/bingbo/blog/wiki/Linux%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7)**
+
  
 ### Memcached
   * **[memcached安装](https://github.com/bingbo/blog/wiki/memcached%E5%AE%89%E8%A3%85)**
