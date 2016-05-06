@@ -89,7 +89,7 @@
 ### Redis
   * **[Redis数据淘汰机制](https://github.com/bingbo/blog/wiki/Redis%E6%95%B0%E6%8D%AE%E6%B7%98%E6%B1%B0%E6%9C%BA%E5%88%B6)**
 
-### Html&Css&Js
+### HTML&CSS&JS
   * **[js跨域请求方法](https://github.com/bingbo/blog/wiki/js%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82%E6%96%B9%E6%B3%95)**
   * **[文字自动截断](https://github.com/bingbo/blog/wiki/%E6%96%87%E5%AD%97%E8%87%AA%E5%8A%A8%E6%88%AA%E6%96%AD)**
   * **[开发笔记](https://github.com/bingbo/blog/wiki/%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0)**
