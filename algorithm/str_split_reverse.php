@@ -8,17 +8,18 @@ $str_dot = '';
 $str_zimu = '';
 $pre_is_dot = 1;
 $arr = array();
+$new_str = '';
 for($i = 0; $i < $len; $i++){
     
     if(($pre_is_dot && '.' != $str[$i]) || (!$pre_is_dot && '.' == $str[$i])){
         
 
         if(!empty($str_dot)){
-            $arr[] = $str_dot;
+            $new_str = $str_dot . $new_str;
         }
 
         if(!empty($str_zimu)){
-            $arr[] = $str_zimu;
+            $new_str = $str_zimu . $new_str;
         }
         $str_dot = '';
         $str_zimu = '';
@@ -40,12 +41,9 @@ for($i = 0; $i < $len; $i++){
     }
 }
 if(!empty($str_dot)){
-    $arr[] = $str_dot;
+    $new_str = $str_dot . $new_str;
 }
 if(!empty($str_zimu)){
-    $arr[] = $str_zimu;
+    $new_str = $str_zimu . $new_str;
 }
-$alen = count($arr);
-for($j = $alen-1; $j > 0; $j--){
-    echo $arr[$j];
-}
+echo $new_str;
