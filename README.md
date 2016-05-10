@@ -44,6 +44,7 @@
   * **[PHP扩展开发](https://github.com/bingbo/blog/wiki/PHP%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91)**
   * **[PHP发送post请求](https://github.com/bingbo/blog/wiki/PHP%E5%8F%91%E9%80%81post%E8%AF%B7%E6%B1%82)**
   * **[PHP与HHVM的比较](https://github.com/bingbo/blog/wiki/PHP%E4%B8%8EHHVM%E7%9A%84%E6%AF%94%E8%BE%83)**
+  * **[PHP多进程](https://github.com/bingbo/blog/wiki/PHP%E5%A4%9A%E8%BF%9B%E7%A8%8B)**
 
 ### PYTHON
   * **[web.py框架解析](https://github.com/bingbo/blog/blob/master/doc/web.py%E6%A1%86%E6%9E%B6%E8%B0%83%E7%A0%94.pdf)**
