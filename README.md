@@ -89,6 +89,16 @@
 ### Redis
   * **[Redis数据淘汰机制](https://github.com/bingbo/blog/wiki/Redis%E6%95%B0%E6%8D%AE%E6%B7%98%E6%B1%B0%E6%9C%BA%E5%88%B6)**
 
+### RabbitMQ
+  * **[RabbitMQ简介](https://github.com/bingbo/blog/wiki/RabbitMQ%E7%AE%80%E4%BB%8B)**
+  * **[abbitMQ-php客户端安装](https://github.com/bingbo/blog/wiki/RabbitMQ-php%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85)**
+  * **[RabbitMQ简单应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8)**
+  * **[RabbitMQ工作队列应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E5%B7%A5%E4%BD%9C%E9%98%9F%E5%88%97%E5%BA%94%E7%94%A8)**
+  * **[RabbitMQ路由应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E8%B7%AF%E7%94%B1%E5%BA%94%E7%94%A8)**
+  * **[RabbitMQ发布订阅应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E5%BA%94%E7%94%A8)**
+  * **[RabbitMQ主题交换机应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E4%B8%BB%E9%A2%98%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%BA%94%E7%94%A8)**
+  * **[RabbitMQ_RPC应用](https://github.com/bingbo/blog/wiki/RabbitMQ_RPC%E5%BA%94%E7%94%A8)**
+
 ### HTML&CSS&JS
   * **[js跨域请求方法](https://github.com/bingbo/blog/wiki/js%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82%E6%96%B9%E6%B3%95)**
   * **[文字自动截断](https://github.com/bingbo/blog/wiki/%E6%96%87%E5%AD%97%E8%87%AA%E5%8A%A8%E6%88%AA%E6%96%AD)**
