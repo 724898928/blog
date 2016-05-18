@@ -93,7 +93,7 @@
 
 ### RabbitMQ
   * **[RabbitMQ简介](https://github.com/bingbo/blog/wiki/RabbitMQ%E7%AE%80%E4%BB%8B)**
-  * **[abbitMQ-php客户端安装](https://github.com/bingbo/blog/wiki/RabbitMQ-php%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85)**
+  * **[RabbitMQ-php客户端安装](https://github.com/bingbo/blog/wiki/RabbitMQ-php%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85)**
   * **[RabbitMQ简单应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8)**
   * **[RabbitMQ工作队列应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E5%B7%A5%E4%BD%9C%E9%98%9F%E5%88%97%E5%BA%94%E7%94%A8)**
   * **[RabbitMQ路由应用](https://github.com/bingbo/blog/wiki/RabbitMQ%E8%B7%AF%E7%94%B1%E5%BA%94%E7%94%A8)**
