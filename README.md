@@ -46,6 +46,7 @@
   * **[PHP与HHVM的比较](https://github.com/bingbo/blog/wiki/PHP%E4%B8%8EHHVM%E7%9A%84%E6%AF%94%E8%BE%83)**
   * **[PHP多进程](https://github.com/bingbo/blog/wiki/PHP%E5%A4%9A%E8%BF%9B%E7%A8%8B)**
   * **[PHP信号管理](https://github.com/bingbo/blog/wiki/PHP信号管理)**
+  * **[PHP生成验证码](https://github.com/bingbo/blog/wiki/PHP%E7%94%9F%E6%88%90%E9%AA%8C%E8%AF%81%E7%A0%81)**
 
 ### PYTHON
   * **[web.py框架解析](https://github.com/bingbo/blog/blob/master/doc/web.py%E6%A1%86%E6%9E%B6%E8%B0%83%E7%A0%94.pdf)**
