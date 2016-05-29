@@ -78,7 +78,7 @@
   * **[shell内嵌命令](https://github.com/bingbo/blog/wiki/shell%E5%86%85%E5%B5%8C%E5%91%BD%E4%BB%A4)**
   * **[信号](https://github.com/bingbo/blog/wiki/%E4%BF%A1%E5%8F%B7)**
   * **[shell常用命令](https://github.com/bingbo/blog/wiki/shell%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
-  * **[shell程序调试](https://github.com/bingbo/blog/wiki/shell%E7%A8%8B%E5%BA%8F%E8%B0%83%E8%AF%95)**
+  
 
 ### LINUX
 
