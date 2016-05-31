@@ -108,3 +108,7 @@
   * **[文字自动截断](https://github.com/bingbo/blog/wiki/%E6%96%87%E5%AD%97%E8%87%AA%E5%8A%A8%E6%88%AA%E6%96%AD)**
   * **[开发笔记](https://github.com/bingbo/blog/wiki/%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0)**
   * **[禁止复制拖动全选右键](https://github.com/bingbo/blog/wiki/%E7%A6%81%E6%AD%A2%E5%A4%8D%E5%88%B6%E6%8B%96%E5%8A%A8)**
+
+### 其他
+  * **[Mac上的StarUML](https://github.com/bingbo/blog/wiki/MAC%E4%B8%8A%E7%9A%84StarUML)**
+
