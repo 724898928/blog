@@ -32,6 +32,11 @@
   * **[MYSQL分区类型](https://github.com/bingbo/blog/wiki/MYSQL%E5%88%86%E5%8C%BA%E7%B1%BB%E5%9E%8B)**
   * **[MYSQL性能优化](https://github.com/bingbo/blog/wiki/MYSQL%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)**
   * **[MYSQL分库分表方案](https://github.com/bingbo/blog/wiki/MYSQL%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E6%96%B9%E6%A1%88)**
+  * **[MYSQL安装](https://github.com/bingbo/blog/wiki/MYSQL%E5%AE%89%E8%A3%85)**
+
+### HBase
+
+  * **[HBase安装](https://github.com/bingbo/blog/wiki/HBase%E7%9A%84%E5%AE%89%E8%A3%85)**
  
 ### PHP
 
@@ -48,6 +53,7 @@
   * **[PHP信号管理](https://github.com/bingbo/blog/wiki/PHP信号管理)**
   * **[PHP生成验证码](https://github.com/bingbo/blog/wiki/PHP%E7%94%9F%E6%88%90%E9%AA%8C%E8%AF%81%E7%A0%81)**
   * **[PHP导出EXCEL表格](https://github.com/bingbo/blog/wiki/PHP%E5%AF%BC%E5%87%BAEXCEL%E8%A1%A8%E6%A0%BC)**
+  * **[YII框架使用总结](https://github.com/bingbo/blog/wiki/YII%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93)**
 
 ### PYTHON
   * **[web.py框架解析](https://github.com/bingbo/blog/blob/master/doc/web.py%E6%A1%86%E6%9E%B6%E8%B0%83%E7%A0%94.pdf)**
@@ -89,9 +95,11 @@
   * **[memcached安装](https://github.com/bingbo/blog/wiki/memcached%E5%AE%89%E8%A3%85)**
   * **[memcached内存管理机制](https://github.com/bingbo/blog/wiki/memcached%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%9C%BA%E5%88%B6)**
   * **[memcached分布式算法](https://github.com/bingbo/blog/wiki/memcached%E5%88%86%E5%B8%83%E5%BC%8F%E7%AE%97%E6%B3%95)**
-  
+  * **[memcached安装](https://github.com/bingbo/blog/wiki/memcached%E5%AE%89%E8%A3%85)**
+
 ### Redis
   * **[Redis数据淘汰机制](https://github.com/bingbo/blog/wiki/Redis%E6%95%B0%E6%8D%AE%E6%B7%98%E6%B1%B0%E6%9C%BA%E5%88%B6)**
+  * **[Redis安装](https://github.com/bingbo/blog/wiki/Redis%E5%AE%89%E8%A3%85)**
 
 ### RabbitMQ
   * **[RabbitMQ简介](https://github.com/bingbo/blog/wiki/RabbitMQ%E7%AE%80%E4%BB%8B)**
