@@ -89,6 +89,7 @@
 ### LINUX
 
   * **[Linux性能监控](https://github.com/bingbo/blog/wiki/Linux%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7)**
+  * **[vim配置](https://github.com/bingbo/blog/wiki/vim%E9%85%8D%E7%BD%AE)**
 
  
 ### Memcached
@@ -119,4 +120,5 @@
 
 ### 其他
   * **[Mac上的StarUML](https://github.com/bingbo/blog/wiki/MAC%E4%B8%8A%E7%9A%84StarUML)**
+
 
