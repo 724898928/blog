@@ -119,6 +119,9 @@
   * **[开发笔记](https://github.com/bingbo/blog/wiki/%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0)**
   * **[禁止复制拖动全选右键](https://github.com/bingbo/blog/wiki/%E7%A6%81%E6%AD%A2%E5%A4%8D%E5%88%B6%E6%8B%96%E5%8A%A8)**
 
+### JAVA
+  * **[JAVA树型结构生成方法](https://github.com/bingbo/blog/wiki/java%E6%A0%91%E7%94%9F%E6%88%90%E6%96%B9%E6%B3%95)**
+
 ### 其他
   * **[Mac上的StarUML](https://github.com/bingbo/blog/wiki/MAC%E4%B8%8A%E7%9A%84StarUML)**
 
