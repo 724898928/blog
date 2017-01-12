@@ -133,6 +133,7 @@
   * **[URLConnection应用](https://github.com/bingbo/blog/wiki/URLConnection%E5%BA%94%E7%94%A8)**
   * **[AOP切面编程应用](https://github.com/bingbo/blog/wiki/AOP%E5%88%87%E9%9D%A2%E7%BC%96%E7%A8%8B%E5%BA%94%E7%94%A8)**
   * **[过滤器、监听器和拦截器应用](https://github.com/bingbo/blog/wiki/%E8%BF%87%E6%BB%A4%E5%99%A8%E3%80%81%E7%9B%91%E5%90%AC%E5%99%A8%E5%92%8C%E6%8B%A6%E6%88%AA%E5%99%A8)**
+  * **[Java自定义注解初试](https://github.com/bingbo/blog/wiki/AOP%E5%88%87%E9%9D%A2%E7%BC%96%E7%A8%8B%E5%BA%94%E7%94%A8)**
   
   
 ### MAVEN
