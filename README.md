@@ -136,7 +136,7 @@
   
   
 ### MAVEN
-  * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
+  * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
   
 ### 其他
   * **[Mac上的StarUML](https://github.com/bingbo/blog/wiki/MAC%E4%B8%8A%E7%9A%84StarUML)**
