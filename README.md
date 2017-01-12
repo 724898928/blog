@@ -122,26 +122,18 @@
 ### JAVA
 
   * **[Java树型结构生成方法](https://github.com/bingbo/blog/wiki/java%E6%A0%91%E7%94%9F%E6%88%90%E6%96%B9%E6%B3%95)**
-  
-  * **[Java定时任务应用](https://github.com/bingbo/blog/wiki/Java%E4%B8%AD%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%E5%BA%94%E7%94%A8)**
-  
-  * **[Java XML解析](https://github.com/bingbo/blog/wiki/Java%E4%B8%AD%E7%9A%84xml%E8%A7%A3%E6%9E%90)**
-  
+  * **[Java定时任务应用](https://github.com/bingbo/blog/wiki/Java%E4%B8%AD%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%E5%BA%94%E7%94%A8)**
+  * **[Java XML解析](https://github.com/bingbo/blog/wiki/Java%E4%B8%AD%E7%9A%84xml%E8%A7%A3%E6%9E%90)**
   * **[Java读取classpath中的文件](https://github.com/bingbo/blog/wiki/Java%E8%AF%BB%E5%8F%96classpath%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6)**
-  
-  * **[Java读取大文件方法](https://github.com/bingbo/blog/wiki/Java%E8%AF%BB%E5%8F%96%E5%A4%A7%E6%96%87%E4%BB%B6%E6%96%B9%E6%B3%95)**
-  
-  * **[Java读取文件方法](https://github.com/bingbo/blog/wiki/Java%E8%AF%BB%E6%96%87%E4%BB%B6%E6%96%B9%E6%B3%95)**
-  
-  * **[HttpClient应用](https://github.com/bingbo/blog/wiki/HttpClient%E5%BA%94%E7%94%A8)**
-  
-  * **[Log4j日志应用](https://github.com/bingbo/blog/wiki/log4j%E6%97%A5%E5%BF%97%E5%BA%94%E7%94%A8)**
-  
-  * **[Spring事务应用](https://github.com/bingbo/blog/wiki/spring-%E4%BA%8B%E5%8A%A1%E5%BA%94%E7%94%A8)**
-  
-  * **[URLConnection应用](https://github.com/bingbo/blog/wiki/URLConnection%E5%BA%94%E7%94%A8)**
-  
-  * **[AOP切面编程应用](https://github.com/bingbo/blog/wiki/AOP%E5%88%87%E9%9D%A2%E7%BC%96%E7%A8%8B%E5%BA%94%E7%94%A8)**
+  * **[Java读取大文件方法](https://github.com/bingbo/blog/wiki/Java%E8%AF%BB%E5%8F%96%E5%A4%A7%E6%96%87%E4%BB%B6%E6%96%B9%E6%B3%95)**
+  * **[Java读取文件方法](https://github.com/bingbo/blog/wiki/Java%E8%AF%BB%E6%96%87%E4%BB%B6%E6%96%B9%E6%B3%95)**
+  * **[HttpClient应用](https://github.com/bingbo/blog/wiki/HttpClient%E5%BA%94%E7%94%A8)**
+  * **[Log4j日志应用](https://github.com/bingbo/blog/wiki/log4j%E6%97%A5%E5%BF%97%E5%BA%94%E7%94%A8)**
+  * **[Spring事务应用](https://github.com/bingbo/blog/wiki/spring-%E4%BA%8B%E5%8A%A1%E5%BA%94%E7%94%A8)**
+  * **[URLConnection应用](https://github.com/bingbo/blog/wiki/URLConnection%E5%BA%94%E7%94%A8)**
+  * **[AOP切面编程应用](https://github.com/bingbo/blog/wiki/AOP%E5%88%87%E9%9D%A2%E7%BC%96%E7%A8%8B%E5%BA%94%E7%94%A8)**
+                  
+  
   
   * **[过滤器、监听器和拦截器应用](https://github.com/bingbo/blog/wiki/%E8%BF%87%E6%BB%A4%E5%99%A8%E3%80%81%E7%9B%91%E5%90%AC%E5%99%A8%E5%92%8C%E6%8B%A6%E6%88%AA%E5%99%A8)**
   
