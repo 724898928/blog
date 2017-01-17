@@ -135,7 +135,8 @@
   * **[过滤器、监听器和拦截器应用](https://github.com/bingbo/blog/wiki/%E8%BF%87%E6%BB%A4%E5%99%A8%E3%80%81%E7%9B%91%E5%90%AC%E5%99%A8%E5%92%8C%E6%8B%A6%E6%88%AA%E5%99%A8)**
   * **[Java自定义注解初试](https://github.com/bingbo/blog/wiki/Java%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E5%88%9D%E8%AF%95)**  
   * **[Java与Memcached](https://github.com/bingbo/blog/wiki/Java%E4%B8%8EMemcached)**  
-  * **[Java与Redis](https://github.com/bingbo/blog/wiki/Java%E4%B8%8ERedis)**    
+  * **[Java与Redis](https://github.com/bingbo/blog/wiki/Java%E4%B8%8ERedis)** 
+  * **[Java与RabbitMQ](https://github.com/bingbo/blog/wiki/Java%E4%B8%8ERabbitMQ)** 
   
 ### MAVEN
   * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
