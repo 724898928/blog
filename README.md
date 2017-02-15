@@ -139,7 +139,8 @@
   * **[Java与RabbitMQ](https://github.com/bingbo/blog/wiki/Java%E4%B8%8ERabbitMQ)** 
   * **[Java NIO](https://github.com/bingbo/blog/wiki/Java_nio)**
   * **[Java_RPC](https://github.com/bingbo/blog/wiki/Java_RPC)**
-  * **[Java垃圾回收](https://github.com/bingbo/blog/wiki/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E5%8E%9F%E7%90%86)**
+  * **[Java垃圾回收](https://github.com/bingbo/blog/wiki/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E5%8E%9F%E7%90%86)**
+
   
 ### MAVEN
   * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
