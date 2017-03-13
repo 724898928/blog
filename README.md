@@ -145,6 +145,8 @@
   * **[Java_HttpClient](https://github.com/bingbo/blog/wiki/Java_HttpClient)**
   * **[Java_CountDownLatch应用](https://github.com/bingbo/blog/wiki/Java_CountDownLatch)**
   * **[Java8日期时间API](https://github.com/bingbo/blog/wiki/Java8%E6%97%A5%E6%9C%9F%E6%97%B6%E9%97%B4API)**
+  * **[Java_Node_AES加密解密方法一](https://github.com/bingbo/blog/wiki/Java_AesForNodeJs)**
+  * **[Java_Node_AES加密解密方法二](https://github.com/bingbo/blog/wiki/Java%E4%B8%8ENode%E7%BB%93%E5%90%88AES%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86)**
   
 ### MAVEN
   * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
