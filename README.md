@@ -142,6 +142,9 @@
   * **[Java垃圾回收](https://github.com/bingbo/blog/wiki/Java%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E5%8E%9F%E7%90%86)**
   * **[Java_多线程](https://github.com/bingbo/blog/wiki/Java_%E5%A4%9A%E7%BA%BF%E7%A8%8B)**
   * **[Java_多线程与单例模式](https://github.com/bingbo/blog/wiki/Java_%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8E%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)**
+  * **[Java_HttpClient](https://github.com/bingbo/blog/wiki/Java_HttpClient)**
+  * **[Java_CountDownLatch应用](https://github.com/bingbo/blog/wiki/Java_CountDownLatch)**
+  * **[Java8日期时间API](https://github.com/bingbo/blog/wiki/Java8%E6%97%A5%E6%9C%9F%E6%97%B6%E9%97%B4API)**
   
 ### MAVEN
   * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
