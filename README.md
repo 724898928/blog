@@ -147,6 +147,8 @@
   * **[Java8日期时间API](https://github.com/bingbo/blog/wiki/Java8%E6%97%A5%E6%9C%9F%E6%97%B6%E9%97%B4API)**
   * **[Java_Node_AES加密解密方法一](https://github.com/bingbo/blog/wiki/Java_AesForNodeJs)**
   * **[Java_Node_AES加密解密方法二](https://github.com/bingbo/blog/wiki/Java%E4%B8%8ENode%E7%BB%93%E5%90%88AES%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86)**
+  * **[Java_虚拟机性能监控与故障处理工具](https://github.com/bingbo/blog/wiki/Java_%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E4%B8%8E%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7)**
+  * **[Java_虚拟机主要参数](https://github.com/bingbo/blog/wiki/Java_%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%BB%E8%A6%81%E5%8F%82%E6%95%B0)**
   
 ### MAVEN
   * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
