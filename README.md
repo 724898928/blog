@@ -157,6 +157,10 @@
   * **[Maven依赖范围](https://github.com/bingbo/blog/wiki/maven%E4%BE%9D%E8%B5%96%E8%8C%83%E5%9B%B4)**
   * **[Maven环境差异化应用](https://github.com/bingbo/blog/wiki/maven%E7%8E%AF%E5%A2%83%E5%B7%AE%E5%BC%82%E5%8C%96%E5%BA%94%E7%94%A8)**
   
+### Zookeeper
+  * **[zookeeper在异步消息中的应用](https://github.com/bingbo/ibingbo-zq)**
+  
+  
 ### 其他
   * **[Mac上的StarUML](https://github.com/bingbo/blog/wiki/MAC%E4%B8%8A%E7%9A%84StarUML)**
 
