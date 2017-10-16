@@ -129,6 +129,7 @@
   * **[Java读取文件方法](https://github.com/bingbo/blog/wiki/Java%E8%AF%BB%E6%96%87%E4%BB%B6%E6%96%B9%E6%B3%95)**
   * **[HttpClient应用](https://github.com/bingbo/blog/wiki/HttpClient%E5%BA%94%E7%94%A8)**
   * **[Log4j日志应用](https://github.com/bingbo/blog/wiki/log4j%E6%97%A5%E5%BF%97%E5%BA%94%E7%94%A8)**
+  * **[logback日志应用](https://github.com/bingbo/simple-springmvc-app)**
   * **[Spring事务应用](https://github.com/bingbo/blog/wiki/spring-%E4%BA%8B%E5%8A%A1%E5%BA%94%E7%94%A8)**
   * **[URLConnection应用](https://github.com/bingbo/blog/wiki/URLConnection%E5%BA%94%E7%94%A8)**
   * **[AOP切面编程应用](https://github.com/bingbo/blog/wiki/AOP%E5%88%87%E9%9D%A2%E7%BC%96%E7%A8%8B%E5%BA%94%E7%94%A8)**
