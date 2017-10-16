@@ -151,7 +151,8 @@
   * **[Java_虚拟机性能监控与故障处理工具](https://github.com/bingbo/blog/wiki/Java_%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E4%B8%8E%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7)**
   * **[Java_虚拟机主要参数](https://github.com/bingbo/blog/wiki/Java_%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%BB%E8%A6%81%E5%8F%82%E6%95%B0)**
   * **[SpringBoot与Docker应用](https://github.com/bingbo/spring-boot-demo)**
-  
+  * **[Javassist字节码编辑工具的使用](https://github.com/bingbo/spring-boot-demo)**
+ 
 ### MAVEN
   * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
   * **[Maven仓库](https://github.com/bingbo/blog/wiki/maven%E4%BB%93%E5%BA%93)**
