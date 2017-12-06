@@ -5,7 +5,7 @@
 ### 设计与建模
 
 * **[RUP及UML建模](https://github.com/bingbo/blog/wiki/RUP%E5%8F%8AUML%E5%BB%BA%E6%A8%A1)**
-* **[设计模式](https://github.com/bingbo/blog/wiki/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)**
+* **[设计模式](https://github.com/bingbo/blog/wiki/design_pattern)**
 * **[面向对象设计](https://github.com/bingbo/blog/wiki/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1)**
 
 ### NGINX
