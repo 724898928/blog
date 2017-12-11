@@ -91,7 +91,7 @@
 
   * **[Linux性能监控](https://github.com/bingbo/blog/wiki/Linux%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7)**
   * **[vim配置](https://github.com/bingbo/blog/wiki/vim%E9%85%8D%E7%BD%AE)**
-  * **[Linux查看系统信息方法](https://github.com/bingbo/blog/wiki/Linux%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF%E6%96%B9%E6%B3%95)
+  * **[Linux查看系统信息方法](https://github.com/bingbo/blog/wiki/Linux%E6%9F%A5%E7%9C%8B%E7%B3%BB%E7%BB%9F%E4%BF%A1%E6%81%AF%E6%96%B9%E6%B3%95)**
 
  
 ### Memcached
