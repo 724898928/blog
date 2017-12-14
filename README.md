@@ -153,6 +153,7 @@
   * **[Java_虚拟机主要参数](https://github.com/bingbo/blog/wiki/Java_%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%BB%E8%A6%81%E5%8F%82%E6%95%B0)**
   * **[SpringBoot与Docker应用](https://github.com/bingbo/spring-boot-demo)**
   * **[Javassist字节码编辑工具的使用](https://github.com/bingbo/blog/wiki/JavaSsist%E7%9A%84%E4%BD%BF%E7%94%A8)**
+  * **[ProtoBuf在Java中的应用](https://github.com/bingbo/netty-app)**
  
 ### MAVEN
   * **[Maven常用命令](https://github.com/bingbo/blog/wiki/maven%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4)**
