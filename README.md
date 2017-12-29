@@ -160,6 +160,7 @@
   * **[Maven仓库](https://github.com/bingbo/blog/wiki/maven%E4%BB%93%E5%BA%93)**
   * **[Maven依赖范围](https://github.com/bingbo/blog/wiki/maven%E4%BE%9D%E8%B5%96%E8%8C%83%E5%9B%B4)**
   * **[Maven环境差异化应用](https://github.com/bingbo/blog/wiki/maven%E7%8E%AF%E5%A2%83%E5%B7%AE%E5%BC%82%E5%8C%96%E5%BA%94%E7%94%A8)**
+  * **[Maven assembly组装打包插件应用](https://github.com/bingbo/blog/wiki/maven-assembly%E6%89%93%E5%8C%85%E6%8F%92%E4%BB%B6%E5%BA%94%E7%94%A8)**
   
 ### Zookeeper
 
