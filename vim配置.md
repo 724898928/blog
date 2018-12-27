@@ -80,8 +80,6 @@ endif
 
 " ¿¿¿¿
 set foldmethod=marker
-"}}}
-" => other UI options"{{{
 " Tab¿¿
 set smarttab
 set tabstop=4 
